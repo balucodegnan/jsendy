@@ -4,13 +4,13 @@
 	//----------------------------------------------------------------------------------//
 	
 	/*  Set the URL to your Sendy installation (without the trailing slash) */
-	define('APP_PATH', 'http://your_sendy_installation_url');
+	define('APP_PATH', 'https://codegnan.com/sendy');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
-	$dbHost = ''; //MySQL Hostname
-	$dbUser = ''; //MySQL Username
-	$dbPass = ''; //MySQL Password
-	$dbName = ''; //MySQL Database Name
+	$dbHost = 'localhost'; //MySQL Hostname
+	$dbUser = 'sendy'; //MySQL Username
+	$dbPass = 'qwerty'; //MySQL Password
+	$dbName = 'sendy'; //MySQL Database Name
 	
 	
 	//----------------------------------------------------------------------------------//	
